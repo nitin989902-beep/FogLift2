@@ -1,0 +1,8 @@
+{
+  "name": "foglift",
+  "version": "1.0.0",
+  "description": "Anonymous real-time 'I'm lost' signal for classrooms",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
